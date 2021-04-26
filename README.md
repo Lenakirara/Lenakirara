@@ -1,7 +1,6 @@
 # Hi there! 👋
 
 ## :woman_technologist: About me... 
-
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615588100394.png" width="400px"/>
 
 - Currently studying web development at Trybe.
