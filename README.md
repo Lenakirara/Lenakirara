@@ -2,8 +2,9 @@
 
 <img align="right" height="300" width="300" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615588100394.png" width="400px"/>
 
-- Estou estudando desenvolvimento web na escola Trybe;
-- Sou entusiasta da área de dados e estudante do curso do Data Science Academy;
+- Atualmente estou estudando desenvolvimento web na escola Trybe;
+- Sou uma entusiasta da área de ciência de dados;
+- Tal entusiasmo, me fez ingressar como estudante na Data Science Academy;
 - Gosto de analisar dados e aprender novas linguagens e ferramentas;
 - Sou bastante curiosa e sempre pronta para aprender e contribuir.
 
