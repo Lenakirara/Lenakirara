@@ -2,10 +2,10 @@
 
 <img align="right" height="300" width="300" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615588100394.png" width="400px"/>
 
-- Currently studying web development at Trybe.
-- Passionate about technology.
-- I like to analyze data and learn new languages.
-- Very curious and always ready to learn and contribute!
+- Estou estudando desenvolvimento web na escola Trybe;
+- Sou entusiasta da área de dados e estudante do curso do Data Science Academy;
+- Gosto de analisar dados e aprender novas linguagens e ferramentas;
+- Sou bastante curiosa e sempre pronta para aprender e contribuir.
 
 ##
 
