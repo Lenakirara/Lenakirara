@@ -3,7 +3,7 @@
 <img align="right" height="300" width="300" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615588100394.png" width="400px"/>
 
 - Atualmente estou estudando desenvolvimento web na escola Trybe;
-- Sou uma entusiasta da área de ciência de dados;
+- Sou uma entusiasta da área de dados;
 - Gosto de aprender novas linguagens e ferramentas;
 - Sou bastante curiosa e sempre pronta para aprender e contribuir.
 
