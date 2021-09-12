@@ -4,8 +4,7 @@
 
 - Atualmente estou estudando desenvolvimento web na escola Trybe;
 - Sou uma entusiasta da área de ciência de dados;
-- Tal entusiasmo, me fez ingressar como estudante na Data Science Academy;
-- Gosto de analisar dados e aprender novas linguagens e ferramentas;
+- Gosto de aprender novas linguagens e ferramentas;
 - Sou bastante curiosa e sempre pronta para aprender e contribuir.
 
 ##
