@@ -5,7 +5,7 @@
 - Desenvolvedora web;
 - Entusiasta da área de dados;
 - Gosto de aprender novas linguagens e ferramentas;
-- Sou bastante curiosa e sempre pronta para aprender e contribuir.
+- Bastante curiosa e sempre pronta para aprender e contribuir.
 
 ##
 
