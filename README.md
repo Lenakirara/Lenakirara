@@ -8,8 +8,6 @@
 - Bastante curiosa e sempre pronta para aprender e contribuir.
 
 ##
-
-
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Lena-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
