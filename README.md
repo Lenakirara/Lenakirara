@@ -2,7 +2,7 @@
 
 <img align="right" height="300" width="300" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615588100394.png" width="400px"/>
 
-- Estudante de Desenvolvedora web;
+- Estudante de Desenvolvedora Web;
 - Entusiasta da área de dados;
 - Gosto de aprender novas linguagens e ferramentas;
 - Bastante curiosa e sempre pronta para aprender e contribuir.
