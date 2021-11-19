@@ -9,7 +9,7 @@
 
 ##
   
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center" margin-top=10px><br>
   <img align="center" alt="Lena-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lena-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Lena-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
