@@ -1,6 +1,6 @@
-## Olá! Eu sou Ghislaine Latorraca (Lena) :woman_technologist:
+<img align="right" height="200" width="200" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615588100394.png" width="400px"/>
 
-<img align="right" height="300" width="300" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615588100394.png" width="400px"/>
+## Olá! Eu sou Ghislaine Latorraca (Lena) :woman_technologist:
 
 - Estudante de Desenvolvimento Web na Trybe;
 - Entusiasta da área de dados;
@@ -8,6 +8,11 @@
 - Bastante curiosa e sempre pronta para aprender e contribuir.
 
 ##
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Lena-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
