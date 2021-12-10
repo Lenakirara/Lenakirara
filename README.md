@@ -3,7 +3,6 @@
 <img align="right" height="300" width="300" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615588100394.png" width="400px"/>
 
 - Estudante de Desenvolvimento Web na Trybe;
-- Atualmente focando os estudos em backend;
 - Entusiasta da área de dados;
 - Gosto de aprender novas linguagens e ferramentas;
 - Bastante curiosa e sempre pronta para aprender e contribuir.
