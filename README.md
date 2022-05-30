@@ -2,7 +2,7 @@
 
 ## Olá! Eu sou Ghislaine Latorraca (Lena) :woman_technologist:
 
-- Estudante de Desenvolvimento Web na Trybe;
+- Desenvolvedora Web pela Trybe;
 - Entusiasta da área de dados;
 - Gosto de aprender novas linguagens e ferramentas;
 - Bastante curiosa e sempre pronta para aprender e contribuir.
