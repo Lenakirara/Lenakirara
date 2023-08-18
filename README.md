@@ -2,8 +2,7 @@
 
 ## Olá! Eu sou Ghislaine Latorraca (Lena) :woman_technologist:
 
-- Desenvolvedora Web FullStack pela Trybe;
-- Entusiasta da área de dados;
+- Desenvolvedora Web FullStack;
 - Gosto de aprender novas linguagens e ferramentas;
 - Bastante curiosa e sempre pronta para aprender e contribuir.
 
