@@ -2,9 +2,7 @@
 
 ## Olá! Eu sou Ghislaine Latorraca (Lena) :woman_technologist:
 
-- Desenvolvedora Web FullStack;
-- Gosto de aprender novas linguagens e ferramentas;
-- Bastante curiosa e sempre pronta para aprender e contribuir.
+Desenvolvedora Web FullStack apaixonada por aprender e explorar novas tecnologias. Estou sempre buscando oportunidades para expandir meu conhecimento e contribuir de forma significativa. Atualmente, estou estudando ABAP e Fiori para ampliar meu conjunto de habilidades e enfrentar novos desafios.
 
 ##
 <div>
