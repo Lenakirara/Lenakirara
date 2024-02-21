@@ -2,7 +2,7 @@
 
 ## :wave: Olá!
 
-Sou Ghislaine, desenvolvedora web fullStack apaixonada por aprender e explorar novas tecnologias. Estou sempre buscando oportunidades para expandir meu conhecimento e contribuir de forma significativa. Atualmente, estou estudando ABAP e Fiori para ampliar meu conjunto de habilidades e enfrentar novos desafios.
+Sou Ghislaine, desenvolvedora web fullStack apaixonada por aprender e explorar novas tecnologias. Estou sempre buscando oportunidades para expandir meu conhecimento e contribuir de forma significativa.
 
 ##
 <div>
