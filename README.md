@@ -1,7 +1,7 @@
 ## :wave: Olá!
 <img align="right" height="200" width="200" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615588100394.png" width="400px"/>
 
-Eu sou Ghislaine, uma desenvolvedora web Full Stack Jr com formação pela Trybe, e estou mergulhando mais fundo nos estudos de SAP-ABAP. 
+Eu sou Ghislaine, uma desenvolvedora web Full Stack Jr com formação pela Trybe, e estou mergulhando mais fundo nos estudos de SAP-ABAP, através do programa "ABAP 4 Girls".
 
 Recentemente retomei meus estudos em Análise e Desenvolvimento de Sistemas. Sou uma entusiasta apaixonada por aprender e explorar novas tecnologias.
 
