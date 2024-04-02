@@ -10,7 +10,7 @@ Estou sempre em busca de oportunidades para expandir meu conhecimento e contribu
 ##
 <div align="center">
   
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenakirara&layout=compact&show_icons=true&rank_icon=github&border_color=30A3DC&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lenakirara&layout=compact&border_color=30A3DC&theme=tokyonight) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenakirara&layout=compact&show_icons=true&rank_icon=github&border_color=30A3DC&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lenakirara&langs_count=10&layout=compact&border_color=30A3DC&size_weight=0.5&count_weight=0.5&theme=tokyonight) |
 | ------------- | ------------- |
 
 </div>
