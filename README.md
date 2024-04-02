@@ -1,7 +1,7 @@
 ## :wave: Olá!
 <img align="right" height="200" width="200" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615588100394.png" width="400px"/>
 
-Eu sou Ghislaine, uma Desenvolvedora Júnior, com conhecimentos em desenvolvimento web full stack (ReactJs e NodeJs) e desenvolvimento ABAP.
+Eu sou a Ghislaine, uma Desenvolvedora Júnior, com conhecimentos em desenvolvimento web full stack JavaScript (ReactJs e NodeJs), Python e desenvolvimento ABAP.
 
 Recentemente retomei meus estudos em Análise e Desenvolvimento de Sistemas. Sou uma entusiasta apaixonada por aprender e explorar novas tecnologias.
 
