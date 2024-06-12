@@ -1,11 +1,18 @@
 ## :wave: Olá!
 <img align="right" height="200" width="200" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615588100394.png" width="400px"/>
 
-Eu sou a Ghislaine, uma Desenvolvedora Júnior, com conhecimentos em desenvolvimento web full stack JavaScript (ReactJs e NodeJs), Python e desenvolvimento ABAP.
+Sou Desenvolvedora Júnior cursando o 3º semestre de Análise e Desenvolvimento de Sistemas, com dois anos de experiência prática em Desenvolvimento Web e um ano em SAP-ABAP, adquirida por meio de diversos projetos.
 
-Recentemente retomei meus estudos em Análise e Desenvolvimento de Sistemas. Sou uma entusiasta apaixonada por aprender e explorar novas tecnologias.
+Tenho experiência em suporte técnico e análise de sistemas Oracle Siebel CRM, utilizando o ServiceNow para registro, acompanhamento e resposta de tickets de suporte. Além disso, desenvolvi uma abordagem analítica para resolver problemas complexos, incluindo a documentação detalhada dos processos e procedimentos executados no sistema. Sou familiarizada com ferramentas de visualização de dados como Excel e Power BI.
 
-Estou sempre em busca de oportunidades para expandir meu conhecimento e contribuir de forma significativa em projetos interessantes. Se você está trabalhando em algo empolgante, adoraria fazer parte!
+Sou proativa e curiosa com habilidades em trabalho em equipe, criatividade e capacidade de trabalhar sob pressão. Tenho habilidade de ouvir atentamente e colaborar efetivamente em projetos, sempre buscando melhorar processos e me envolver ativamente.
+
+✔️ **Linguagens de Programação:** ABAP, Javascript, Python <br>
+✔️ **Desenvolvimento ABAP/ERP:** ALV, Reports, Forms, Module Pool, implementação de Exits, BAdIs e Enhancements, depuração <br>
+✔️ **Tecnologias Backend:** NodeJs, Express.js, Sequelize, JWT <br>
+✔️ **Tecnologias Frontend:** HTLM5, CCS3, Bootstrap, ReactJs <br>
+✔️ **Banco de dados:** MySQL e MongoDB <br>
+✔️ **Teste:** Jest, Mocha, Chai
 
 ##
 <div align="center">
