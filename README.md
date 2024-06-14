@@ -1,7 +1,7 @@
 ## :wave: Olá!
 <img align="right" height="200" width="200" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615588100394.png" width="400px"/>
 
-Sou Desenvolvedora Júnior cursando o 3º semestre de Análise e Desenvolvimento de Sistemas, com dois anos de experiência prática em Desenvolvimento Web e um ano em SAP-ABAP, adquirida por meio de diversos projetos.
+Sou Desenvolvedora Júnior e estudante de Análise e Desenvolvimento de Sistemas, com dois anos de experiência prática em Desenvolvimento Web e um ano em SAP-ABAP, adquirida por meio de diversos projetos.
 
 Tenho experiência em suporte técnico e análise de sistemas Oracle Siebel CRM, utilizando o ServiceNow para registro, acompanhamento e resposta de tickets de suporte. Além disso, desenvolvi uma abordagem analítica para resolver problemas complexos, incluindo a documentação detalhada dos processos e procedimentos executados no sistema. Sou familiarizada com ferramentas de visualização de dados como Excel e Power BI.
 
