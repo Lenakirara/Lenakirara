@@ -3,7 +3,7 @@
 
 Sou Desenvolvedora Júnior e estudante de Análise e Desenvolvimento de Sistemas, com dois anos de experiência prática em Desenvolvimento Web e um ano em SAP-ABAP, adquirida por meio de diversos projetos.
 
-Tenho experiência em suporte técnico e análise de sistemas Oracle Siebel CRM, utilizando o ServiceNow para registro, acompanhamento e resposta de tickets de suporte. Além disso, desenvolvi uma abordagem analítica para resolver problemas complexos, incluindo a documentação detalhada dos processos e procedimentos executados no sistema. Sou familiarizada com ferramentas de visualização de dados como Excel e Power BI.
+Tenho experiência como analista de sistemas Oracle Siebel CRM, utilizando o ServiceNow para registro, acompanhamento e resposta de tickets de suporte. Além disso, desenvolvi uma abordagem analítica para resolver problemas complexos, incluindo a documentação detalhada dos processos e procedimentos executados no sistema. Sou familiarizada com ferramentas de visualização de dados como Excel e Power BI.
 
 Sou proativa e curiosa com habilidades em trabalho em equipe, criatividade e capacidade de trabalhar sob pressão. Tenho habilidade de ouvir atentamente e colaborar efetivamente em projetos, sempre buscando melhorar processos e me envolver ativamente.
 
