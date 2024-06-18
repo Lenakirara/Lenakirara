@@ -9,7 +9,7 @@ Sou proativa e curiosa com habilidades em trabalho em equipe, criatividade e cap
 
 ✔️ **Linguagens de Programação:** ABAP, Javascript, Python <br>
 ✔️ **Desenvolvimento ABAP/ERP:** ALV, Reports, Forms, Module Pool, implementação de Exits, BAdIs e Enhancements, depuração <br>
-✔️ **Tecnologias Backend:** NodeJs, Express.js, ORM (Sequelize), JWT <br>
+✔️ **Tecnologias Backend:** NodeJs, Express.js, ORM (Sequelize), Autenticação JWT <br>
 ✔️ **Tecnologias Frontend:** HTLM5, CSS3, Bootstrap, ReactJs <br>
 ✔️ **Banco de dados:** MySQL e MongoDB <br>
 ✔️ **Teste:** Jest, Mocha, Chai
