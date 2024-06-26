@@ -1,11 +1,11 @@
 ## :wave: Olá!
 <img align="right" height="200" width="200" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615588100394.png" width="400px"/>
 
-Sou Desenvolvedora Júnior e estudante de Análise e Desenvolvimento de Sistemas, com dois anos de experiência prática em Desenvolvimento Web e um ano em SAP-ABAP, adquirida por meio de diversos projetos.
+Sou uma desenvolvedora júnior e estudante de Análise e Desenvolvimento de Sistemas, tenho experiência prática em desenvolvimento web e desenvolvimento erp, adquirida por meio de diversos projetos.
 
-Tenho experiência como analista de sistemas Oracle Siebel CRM, utilizando o ServiceNow para registro, acompanhamento e resposta de tickets de suporte. Além disso, desenvolvi uma abordagem analítica para resolver problemas complexos, incluindo a documentação detalhada dos processos e procedimentos executados no sistema. Sou familiarizada com ferramentas de visualização de dados como Excel e Power BI.
+Tenho experiência como analista de sistemas Oracle Siebel CRM, utilizando o ServiceNow para registro, gerenciamento de tickets de suporte. Possuo uma abordagem analítica para resolver problemas complexos, incluindo documentação detalhada dos processos e procedimentos executados no sistema. Sou familiarizada com ferramentas de visualização de dados como Excel e Power BI.
 
-Sou proativa e curiosa com habilidades em trabalho em equipe, criatividade e capacidade de trabalhar sob pressão. Tenho habilidade de ouvir atentamente e colaborar efetivamente em projetos, sempre buscando melhorar processos e me envolver ativamente.
+Sou proativa e curiosa, com habilidades em trabalho em equipe, criatividade e capacidade de trabalhar sob pressão. Tenho habilidade de ouvir atentamente e colaborar efetivamente em projetos, sempre buscando melhorar processos e me envolver ativamente.
 
 ✔️ **Linguagens de Programação:** ABAP, Javascript, Python <br>
 ✔️ **Desenvolvimento ABAP/ERP:** ALV, Reports, Forms, Module Pool, implementação de Exits, BAdIs e Enhancements, depuração <br>
