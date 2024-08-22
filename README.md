@@ -1,7 +1,7 @@
 ## :wave: Olá!
 <img align="right" height="200" width="200" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615588100394.png" width="400px"/>
 
-Sou uma desenvolvedora júnior e estudante de Análise e Desenvolvimento de Sistemas, tenho experiência prática em desenvolvimento web e desenvolvimento erp, adquirida por meio de diversos projetos.
+Sou uma desenvolvedora júnior e estudante de Análise e Desenvolvimento de Sistemas, tenho experiência prática em desenvolvimento web e desenvolvimento erp, adquirida por meio de projetos.
 
 Tenho experiência como analista de sistemas Oracle Siebel CRM, utilizando o ServiceNow para registro, gerenciamento de tickets de suporte. Possuo uma abordagem analítica para resolver problemas complexos, incluindo documentação detalhada dos processos e procedimentos executados no sistema. Sou familiarizada com ferramentas de visualização de dados como Excel e Power BI.
 
