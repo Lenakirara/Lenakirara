@@ -5,8 +5,6 @@ Sou uma desenvolvedora júnior e estudante de Análise e Desenvolvimento de Sist
 
 Tenho experiência como analista de sistemas Oracle Siebel CRM, utilizando o ServiceNow para registro, gerenciamento de tickets de suporte. Possuo uma abordagem analítica para resolver problemas complexos, incluindo documentação detalhada dos processos e procedimentos executados no sistema. Sou familiarizada com ferramentas de visualização de dados como Excel e Power BI.
 
-Sou proativa e curiosa, com habilidades em trabalho em equipe, criatividade e capacidade de trabalhar sob pressão. Tenho habilidade de ouvir atentamente e colaborar efetivamente em projetos, sempre buscando melhorar processos e me envolver ativamente.
-
 ✔️ **Linguagens de Programação:** ABAP, Javascript, Python <br>
 ✔️ **Desenvolvimento ABAP/ERP:** ALV, Reports, Forms, Module Pool, implementação de Exits, BAdIs e Enhancements, depuração <br>
 ✔️ **Tecnologias Backend:** NodeJs, Express.js, ORM (Sequelize), Autenticação JWT <br>
