@@ -1,16 +1,17 @@
 ## :wave: Olá!
 <img align="right" height="200" width="200" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615588100394.png" width="400px"/>
 
-Sou uma desenvolvedora júnior e estudante de Análise e Desenvolvimento de Sistemas, tenho experiência prática em desenvolvimento web e desenvolvimento erp, adquirida por meio de projetos.
+Sou uma desenvolvedora júnior e estudante de Análise e Desenvolvimento de Sistemas, com experiência prática em desenvolvimento web, ERP e, mais recentemente, em automação de processos (RPA). Estou começando a atuar nesta área, aprendendo a otimizar processos e integrar sistemas com ferramentas como Python, VBA, Automation Anywhere e BotCity.
 
-Tenho experiência como analista de sistemas Oracle Siebel CRM, utilizando o ServiceNow para registro, gerenciamento de tickets de suporte. Possuo uma abordagem analítica para resolver problemas complexos, incluindo documentação detalhada dos processos e procedimentos executados no sistema. Sou familiarizada com ferramentas de visualização de dados como Excel e Power BI.
+Tenho experiência como analista de sistemas Oracle Siebel CRM, utilizando o ServiceNow para registro e gerenciamento de tickets de suporte. Sou familiarizada com ferramentas de visualização de dados como Excel e Power BI.
 
-✔️ **Linguagens de Programação:** ABAP, Javascript, Python <br>
-✔️ **Desenvolvimento ABAP/ERP:** ALV, Reports, Forms, Module Pool, implementação de Exits, BAdIs e Enhancements, depuração <br>
-✔️ **Tecnologias Backend:** NodeJs, Express.js, ORM (Sequelize), Autenticação JWT <br>
-✔️ **Tecnologias Frontend:** HTLM5, CSS3, Bootstrap, ReactJs <br>
-✔️ **Banco de dados:** MySQL e MongoDB <br>
-✔️ **Teste:** Jest, Mocha, Chai
+✔️ **Linguagens de Programação**: ABAP, Javascript, Python <br>
+✔️ **Desenvolvimento ABAP/ERP**: ALV, Reports, Forms, Module Pool, implementação de Exits, BAdIs e Enhancements, depuração <br>
+✔️ **RPA (Automação de Processos)**: Automation Anywhere, VBA, Python, BotCity <br>
+✔️ **Tecnologias Backend**: NodeJs, Express.js, ORM (Sequelize), Autenticação JWT <br>
+✔️ **Tecnologias Frontend**: HTML5, CSS3, Bootstrap, ReactJs <br>
+✔️ **Banco de Dados**: MySQL e MongoDB <br>
+✔️ **Teste**: Jest, Mocha, Chai
 
 ##
 <div align="center">
