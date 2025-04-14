@@ -1,5 +1,5 @@
 ## :wave: Olá!
-<img align="right" height="200" width="200" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615588100394.png" width="400px"/>
+<img align="right" height="200" width="200" alt="octocat-lena" src="https://github.com/Lenakirara/Lenakirara/blob/main/octocat-lena.png" width="400px"/>
 
 Desenvolvedora e estudante de Análise e Desenvolvimento de Sistemas, com experiência prática em desenvolvimento web, ERP e, mais recentemente, em automação de processos (RPA). 
 
