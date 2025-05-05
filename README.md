@@ -1,7 +1,7 @@
 ## :wave: Olá!
 <img align="right" height="200" width="200" alt="octocat-lena" src="https://github.com/Lenakirara/Lenakirara/blob/main/octocat-lena.png" width="400px"/>
 
-Desenvolvedora em transição para a área SAP, com foco em ABAP e automação de processos (RPA). Estudante de Análise e Desenvolvimento de Sistemas, com vivência prática em desenvolvimento web, ERP e rotinas automatizadas com BotCity, Python, VBA e Automation Anywhere.
+Sou uma desenvolvedora em transição para a área SAP, com foco em ABAP e automação de processos (RPA). Estudante de Análise e Desenvolvimento de Sistemas, com vivência prática em desenvolvimento web, ERP e rotinas automatizadas com BotCity, Python, VBA e Automation Anywhere.
 
 Atuei com Oracle Siebel CRM e ServiceNow, lidando com chamados técnicos e análise de dados com SQL. Tenho noções de visualização de dados com Excel e Power BI e sigo expandindo meu repertório técnico, com interesse especial no ecossistema SAP.
 
