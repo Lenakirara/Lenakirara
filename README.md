@@ -1,9 +1,9 @@
 ## :wave: Olá!
 <img align="right" height="200" width="200" alt="octocat-lena" src="https://github.com/Lenakirara/Lenakirara/blob/main/octocat-lena.png" width="400px"/>
 
-Desenvolvedora e estudante de Análise e Desenvolvimento de Sistemas, com experiência prática em desenvolvimento web, ERP e, mais recentemente, em automação de processos (RPA). 
+Desenvolvedora em transição para a área SAP, com foco em ABAP e automação de processos (RPA). Estudante de Análise e Desenvolvimento de Sistemas, com vivência prática em desenvolvimento web, ERP e rotinas automatizadas com BotCity, Python, VBA e Automation Anywhere.
 
-Tenho experiência como analista de sistemas Oracle Siebel CRM, utilizando o ServiceNow para registro e gerenciamento de tickets de suporte. Sou familiarizada com ferramentas de visualização de dados como Excel e Power BI.
+Atuei com Oracle Siebel CRM e ServiceNow, lidando com chamados técnicos e análise de dados com SQL. Tenho noções de visualização de dados com Excel e Power BI e sigo expandindo meu repertório técnico, com interesse especial no ecossistema SAP.
 
 ✔️ **Linguagens de Programação**: ABAP, Javascript, Python <br>
 ✔️ **Desenvolvimento ABAP/ERP**: ALV, Reports, Forms, Module Pool, implementação de Exits, BAdIs e Enhancements, depuração <br>
@@ -11,7 +11,8 @@ Tenho experiência como analista de sistemas Oracle Siebel CRM, utilizando o Ser
 ✔️ **Tecnologias Backend**: NodeJs, Express.js, ORM (Sequelize), Autenticação JWT <br>
 ✔️ **Tecnologias Frontend**: HTML5, CSS3, Bootstrap, ReactJs <br>
 ✔️ **Banco de Dados**: MySQL e MongoDB <br>
-✔️ **Teste**: Jest, Mocha, Chai
+✔️ **Teste**: Jest, Mocha, Chai <br>
+✔️ **Certificação**: AWS Certified Cloud Practitioner
 
 ##
 <div align="center">
