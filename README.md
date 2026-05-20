@@ -14,7 +14,7 @@ Certificada em SAP Build e AWS Cloud Practitioner. Vivência em desenvolvimento 
 ✔️ **Tecnologias Frontend**: HTML5, CSS3, Bootstrap, ReactJs <br>
 ✔️ **Banco de Dados**: MySQL e MongoDB <br>
 ✔️ **Teste**: Jest, Mocha, Chai <br>
-✔️ **Certificação**: AWS Certified Cloud Practitioner
+✔️ **CertificaçÕES**: AWS Certified Cloud Practitioner e  SAP Build
 
 ##
 <div align="center">
