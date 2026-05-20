@@ -1,9 +1,11 @@
 ## :wave: Olá!
 <img align="right" height="200" width="200" alt="octocat-lena" src="https://github.com/Lenakirara/Lenakirara/blob/main/octocat-lena.png" width="400px"/>
 
-Sou uma desenvolvedora em transição para a área SAP, com foco em ABAP e automação de processos (RPA). Estudante de Análise e Desenvolvimento de Sistemas, com vivência prática em desenvolvimento web, ERP e rotinas automatizadas com BotCity, Python, VBA e Automation Anywhere.
+Sou Desenvolvedora SAP ABAP, graduada em Análise e Desenvolvimento de Sistemas, com atuação prática em projetos e melhorias técnicas em ambientes SAP S/4HANA, atuando com ALV, BAPIs, Function Modules, user-exits, BADIs e enhancements.
 
-Atuei com Oracle Siebel CRM e ServiceNow, lidando com chamados técnicos e análise de dados com SQL. Tenho noções de visualização de dados com Excel e Power BI e sigo expandindo meu repertório técnico, com interesse especial no ecossistema SAP.
+Também atuo com SAP Fiori, incluindo CDS Views, Fiori Elements, SAPUI5 e RAP, seguindo boas práticas e conceitos de Clean Core.
+
+Certificada em SAP Build e AWS Cloud Practitioner. Vivência em desenvolvimento web (JavaScript) e  automação de processos robóticos (RPA - Python).
 
 ✔️ **Linguagens de Programação**: ABAP, Javascript, Python <br>
 ✔️ **Desenvolvimento ABAP/ERP**: ALV, Reports, Forms, Module Pool, implementação de Exits, BAdIs e Enhancements, depuração <br>
